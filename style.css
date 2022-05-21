@@ -1,16 +1,8 @@
-*{
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-.grid{
-  width: 600px;
-  height: 600px;
-display: flex;
-margin: 2rem;
-flex-wrap: wrap;
-padding: 1em;
+.grid {
+  width: 606px;
+  height: 606px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 
